@@ -1,49 +1,35 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "jedelman8.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
-  avatar: avatar.png
-  gravatar: # email md5 hash
-  description: "A website with blog posts and pages" # used by search engines
-  
+  title: Jason Edelman's Blog
+  #avatar: avatar.png
+  #gravatar: # email md5 hash
+  description: "Focused on networking, from the past to the present: SDN, Automation, and DevOps." # used by search engines
+
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-     
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p>Welcome to the new Blog!</p>
+
+     <p>Curently under construction. Please be patient. </p>
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
-  
+   Powered by <a href="http://jekyllrb.com">Jekyll</a> and <a href="https://pages.github.com">Git Hub Pages</a>
+
   # Icons
-  rss: false
+  rss: true
   email_address: # full email address, e.g. "sam@example.com"
-  behance:
-  bitbucket: 
-  dribbble: 
-  facebook: 
-  flickr: 
-  github: "rohanchandra/type-theme"
-  google_plus: 
-  instagram: 
-  linkedin:  # full URL
-  pinterest: 
-  reddit: 
-  soundcloud: 
-  stack_exchange:  # full URL
-  steam: 
-  tumblr: 
-  twitter: "twitter"
-  wordpress: 
-  youtube: 
-  
+  github: "jedelman8"
+  linkedin: "https://www.linkedin.com/in/jedelman8"# full URL
+  twitter: "jedelman8"
+  youtube: "jedelman23"
+
   # Scripts
   google_analytics: # tracking id, e.g. "UA-000000-01"
-  disqus_shortname:
-  
+  disqus_shortname: jedelman8
+
   # Localization strings
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
@@ -51,17 +37,25 @@ theme:
   str_next: "Next"
   str_prev: "Prev"
   str_continue_reading: "Continue reading"
-  
+
   # Colors, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
 
 # PAGINATION
-paginate: 5
+paginate: 20
 paginate_path: "blog/page:num"
 
 # BUILD SETTINGS
 markdown: kramdown
+kramdown:
+  input: GFM
 highlighter: pygments
 sass:
   sass_dir: _sass
   style: :compressed
+
+author:
+  name: Jason Edelman
+  email: jedelman8@gmail.com
+  github: jedelman8
+  twitter: jedelman8
