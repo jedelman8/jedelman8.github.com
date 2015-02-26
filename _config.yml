@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl:  # the subpath of your site, e.g. /blog/
 url: "jedelman8.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
@@ -12,22 +12,22 @@ theme:
 
   # Header and footer text
   header_text: >
-     <p>Welcome to the new Blog!</p>
+     <p>Welcome to the new Blog.</p>
 
-     <p>Curently under construction. Please be patient. </p>
+     <p>Curently under construction. Please be patient during the migration. </p>
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and <a href="https://pages.github.com">Git Hub Pages</a>
 
   # Icons
   rss: true
-  email_address: # full email address, e.g. "sam@example.com"
+  email_address: jedelman8@gmail.com
   github: "jedelman8"
   linkedin: "https://www.linkedin.com/in/jedelman8"# full URL
   twitter: "jedelman8"
   youtube: "jedelman23"
 
   # Scripts
-  google_analytics: # tracking id, e.g. "UA-000000-01"
+  google_analytics: UA-37434033-1
   disqus_shortname: jedelman8
 
   # Localization strings
