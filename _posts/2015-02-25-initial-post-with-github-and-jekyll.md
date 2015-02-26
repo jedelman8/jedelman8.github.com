@@ -2,7 +2,7 @@
 layout: post
 title: Initial Post with GitHub and Jekyll
 ---
-Over the past several months, I've found myself holding back on writing posts simply because my blog [platform](http://weebly.com) does not support the ability to embed code or even change fonts to resemble code, CLI, or working on a terminal.  Screen shots are good, but offering the ability to copy and paste is nice, plus it just looks cleaner.  This is unacceptable.
+Over the past several months, I've found myself holding back on writing posts simply because my blog platform does not support the ability to embed code or even change fonts to resemble code, CLI, or working on a terminal.  Screen shots are good, but offering the ability to copy and paste is nice, plus it just looks cleaner.  This is unacceptable.
 
 Additionally, I have been doing much more with GitHub and markdown.  So, after reading what [Scott Lowe](http://blog.scottlowe.org/2014/12/18/blog-migration-in-the-works/) had done with his migration to Jekyll and GitHub pages, it seemed like that was a great idea. Not only should I be able to improve what I can write, I should be able to decrease the time it takes to write a post.  Awesome.  So, the journey shall begin.
 
