@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Initial Post with GitHub and Jekyll
+tags: github, jekyll, blog
 ---
 Over the past several months, I've found myself holding back on writing posts simply because my blog platform does not support the ability to embed code or even change fonts to resemble code, CLI, or working on a terminal.  Screen shots are good, but offering the ability to copy and paste is nice, plus it just looks cleaner.  This is unacceptable.
 
