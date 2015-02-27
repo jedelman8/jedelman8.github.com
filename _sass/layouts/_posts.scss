@@ -29,6 +29,13 @@ header {
     text-transform: uppercase;
   }
 }
+@media (max-width: 48em) {
+  h1 {
+  font-size: 70%;
+  }
+
+}
+
 .feature-image {
   padding: 0%;
   .post-link {
