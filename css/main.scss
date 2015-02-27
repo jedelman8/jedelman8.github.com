@@ -50,7 +50,7 @@ code {
 }
 
 pre {
-
+    overflow: auto;
     display: block;
     margin-top: 0;
     margin-bottom: 1rem;
@@ -59,8 +59,16 @@ pre {
     line-height: 1.4;
     white-space: pre;
     white-space: pre-wrap;
-    word-break: break-all;
-    word-wrap: break-word;
+    //height: auto;
+    //max-height: 200px;
+    overflow: auto;
+    //background-color: #eeeeee;
+    word-break: normal !important;
+    word-wrap: normal !important;
+    white-space: pre !important;
+
+    //word-break: break-all;
+    //word-wrap: break-word;
     background-color: #F0F0F0;
 }
 pre code {

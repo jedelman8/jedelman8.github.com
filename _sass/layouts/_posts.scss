@@ -3,10 +3,12 @@ article,
   @extend %padding-regular;
   border-bottom: 1px solid $border-color;
   float: left;
-  width: 100%;
+  width: 88%;
+  margin-left: 6%
 }
+
 article {
-  width: 84%;
+  text-alight: center;
   header {
     margin-bottom: 6%;
     text-align: center;
@@ -71,5 +73,6 @@ header {
   }
   .post-content {
     @extend %padding-regular;
+
   }
 }
