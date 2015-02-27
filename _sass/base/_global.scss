@@ -39,6 +39,31 @@ h3 {
 h4 {
   font-size: 1.15em;
 }
+
+@media (max-width: 48em) {
+
+  h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+  }
+
+  h1 {
+    font-size: 1.4em;
+  }
+  h2 {
+    font-size: 1.1em;
+  }
+  h3 {
+    font-size: 0.8em;
+  }
+  h4 {
+    font-size: 0.6em;
+  }
+
+}
+
+
+
+
 blockquote {
     border-left: 2px solid;
     padding: 1em 1em;
