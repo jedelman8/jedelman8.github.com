@@ -15,7 +15,7 @@ theme:
   header_text: >
      <p>Welcome to the new Blog.</p>
 
-     <p>Curently under construction. Please be patient during the migration. </p>
+     <p>Curently under construction. Please be patient during the migration.  Posts from 2012 and 2013 are coming soon!</p>
   footer_text: >
    <form style="border:1px solid #fff;padding:3px;text-align:center;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=JasonEdelmanjedelman8', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Subscribe to this Blog by Email:</p><p><input type="text" style="width:190px" name="email"/></p><input type="hidden" value="JasonEdelmanjedelman8" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Enter Your Email Adress" /></form>
 
