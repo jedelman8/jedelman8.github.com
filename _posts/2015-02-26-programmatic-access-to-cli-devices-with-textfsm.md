@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmatic Access to CLI Driven Devices with TextFSM
+title: Programmatic Access to CLI Devices with TextFSM
 tags: automation, ansible, textfsm
 ---
 One of the harder things to do when it comes to network automation is work with the majority of the install base that exists out there. This is true even if we focus purely on data extraction, i.e. issuing `show` commands and getting the results in an automated fashion.  The reason for this is that most devices do not support returning structured data in formats such as JSON or XML, and this often times makes automation a non-starter for network engineers.  
