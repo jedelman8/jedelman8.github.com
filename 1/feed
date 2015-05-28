@@ -5,7 +5,7 @@ layout: null
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{{ site.theme.title | xml_escape }}</title>
-    <atom:link href="{{ "/1/feed" | prepend: site.baseurl }}" rel="self" type="application/rss+xml"/>
+    <atom:link href=http://jedelman.com/1/feed" rel="self" type="application/rss+xml"/>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
     <description>{{ site.theme.description | xml_escape }}</description>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
