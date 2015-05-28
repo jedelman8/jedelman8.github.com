@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl:  # the subpath of your site, e.g. /blog/
-url: "jedelman8.github.io" # the base hostname & protocol for your site
+url: "http://jedelman.com" # the base hostname & protocol for your site
 
 permalink: /home/:title/
 # THEME-SPECIFIC CONFIGURATION
