@@ -14,8 +14,9 @@
 // post listing
 .posts {
   .post-teaser {
-    @extend %padding-regular;
-    width: 100%;
+    //@extend %padding-regular;
+    padding: 2% 25%;
+    width: 95%;
     margin-bottom: 0;
     display: inline-block;
     background-size: $feature-image-size;

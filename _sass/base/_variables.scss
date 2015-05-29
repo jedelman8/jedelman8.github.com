@@ -1,20 +1,20 @@
 // typography
 $font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
-$font-size: 1.25em;
+$font-size: 1.0em;
 
 // padding
-$padding-large: 20%;
+$padding-large: 23%;
 $padding-small: 5%;
 $padding-x-small: 3%;
 
 // brand colors
 $brand-color: #fff;
-$background-color: #fff;
+$background-color: #fff;           // white
 $border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
 
 // typography colors
-$text-color: #383838;
-$link-color: #1ABC9C;
+$text-color: #383838;  // dark gray
+$link-color: #1ABC9C;  // this is the green
 $selection-color: #D4D4D4; // visible when highlighting text
 
 // header colors
@@ -25,5 +25,5 @@ $feature-image-text-color: #fff;
 $feature-image-size: cover; // options include "cover", "contain", "auto"
 
 // header description box
-$header-desc-background-color: #F98752; 
+$header-desc-background-color: #1ABC9C;
 $header-desc-text-color: #FFF;

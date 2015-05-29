@@ -6,7 +6,8 @@
   }
 }
 %padding-regular {
-  padding: $padding-small $padding-large;
+  // padding: $padding-small $padding-large;
+  padding: 4% 21%;
   @media (max-width: 1000px) {
     padding: $padding-small * 1.5 $padding-large / 1.6;
   }
