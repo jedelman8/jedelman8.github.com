@@ -9,7 +9,7 @@ This week was a busy one.  I had the opportunity to speak at a local [NYC Ansibl
 
 ## NYC Ansible Meetup - Tuesday June 2
 
-Clearly the presentation was about network automation with Ansible.  That probably goes without saying since it was an Ansible meetup!  I've used these [slides](http://www.slideshare.net/jedelman99/ansible-meetup-nyc-060215) in other presentations throughout the year, so some are repetitive, but they usually hit some key points on the topic of network automation.  Unfortunately, I did not know this was being streamed lived when it took place, but luckily the organizers recorded it too.  Link is below.
+Clearly the presentation was about network automation with Ansible.  That probably goes without saying since it was an Ansible meetup!  I've used these [slides](http://www.slideshare.net/jedelman99/ansible-meetup-nyc-060215) in other presentations throughout the year, so some are repetitive, but they usually hit some key points on the topic of network automation. Unfortunately, I did not know this was being streamed lived when it took place, but luckily the organizers recorded it too.  Link is below.
 
 Note: the presentation doesn't start until about the 30:30 mark.  From there on out, it's about half presentation and then half live demo of using Ansible for Network Automation.
 
