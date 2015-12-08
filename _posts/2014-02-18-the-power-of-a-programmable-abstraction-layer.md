@@ -82,7 +82,7 @@ Edit 3/15/2014:
 
 What do you think? Does something like CPAL make sense to pursue?  Always looking for input and feedback.
 
-[...And be sure to check out the demo of CPAL here...](http://www.jedelman.com/1/post/2014/03/demo-common-programmable-abstraction-layer.html)
+[...And be sure to check out the demo of CPAL here...](/home/demo-common-programmable-abstraction-layer)
 
 This post didn't cover one native API vs. another like onePK vs. eAPI, but hopefully that can be an upcoming post.  If that's of interest, let me know!
 
