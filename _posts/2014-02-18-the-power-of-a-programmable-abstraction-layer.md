@@ -4,7 +4,7 @@ title: The Power of a Programmable Abstraction Layer
 tags: cpal
 ---
 
-In the previous [post](http://www.jedelman.com/1/post/2014/02/common-programmable-abstraction-layer.html), I talked about a common programmable abstraction layer (CPAL).  To better understand the thought process behind having a common PAL, it makes sense to review some of the work Jeremy Schulman has been doing.  Jeremy often refers to the Python interactive shell as the new CLI for networking.  When you watch him give a demo using the Python shell as a CLI, it is second nature and looks exactly like a network CLI.  It makes perfect sense.
+In the previous [post](/home/common-programmable-abstraction-layer), I talked about a common programmable abstraction layer (CPAL).  To better understand the thought process behind having a common PAL, it makes sense to review some of the work Jeremy Schulman has been doing.  Jeremy often refers to the Python interactive shell as the new CLI for networking.  When you watch him give a demo using the Python shell as a CLI, it is second nature and looks exactly like a network CLI.  It makes perfect sense.
 
 It gives real time access to the network devices in a programmatic fashion.  Being programmatic is key here – no screen scraping, etc.  The downside --- you need to know Python.  Well, yes and no.  Of course, you would be using the Python interpreter so you’ll be leveraging programming concepts -- things like variables, functions, classes, etc. 
 
