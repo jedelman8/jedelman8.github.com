@@ -148,10 +148,12 @@ Anyone else out there using Ansible for network configuration and automation?  I
 
 If this sparks any further ideas or raises any particular questions, I’m all ears.  Feel free to comment below or write in directly to me. 
 
+And on a side note, if you're interested in more formal Network Automation training that covers Ansible and Python, check this out: [Network Automation Course Schedule](http://networktocode.com/training/course-schedule/).  I usually teach most of the courses listed.
+
+
 Thanks,
 Jason
 
 Twitter: @jedelman8
 
-Related follow-up post: [Network Test Automation with Ansible](http://www.jedelman.com/1/post/2014/03/network-test-automation-with-ansible.html)
 
