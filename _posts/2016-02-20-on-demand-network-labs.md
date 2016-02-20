@@ -11,7 +11,6 @@ We need a platform that offers on-demand network infrastructure labs that makes 
 > It's true, this has all become easier with tools such as Virtual Box and Vagrant, but you can still spend the same amount of time getting the underlying infrastructure setup as you spend on the actual tests you need to perform.  In that model, you also need to be able have enough horsepower to run enough virtual machines as well, which often isn't the case.  On top of that, many Enterprises don't  allow tools such as these to be installed.
 
 # On Demand Network Labs
-# [PRE-LAUNCH]
 
 What I am proposing and getting ready to launch is a cloud based platform that allows you to launch pre-built network topologies in minutes.  Upon launch, they are ready to be used, automated, and managed - fully eliminating the time and hassle often required to get started.
 
