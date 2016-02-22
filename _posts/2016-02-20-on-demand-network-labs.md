@@ -37,8 +37,11 @@ Are you interested in being an early user of our platform?  If so, you need to d
 
 As much as this platform is meant for dev/test of learning automation automation technologies, it can be used for testing any feature the platform supports.  Additionally, we've had requests for infrastructure that can be used for Continuous Integration testing such that as users deploy CI pipelines, they can test again our cloud-based virtual platforms since often times, they don't have enough physical kit to do this kind of testing on their premises.
 
-
 We look forward to hearing from the early adopters and continue to work hard preparing for a formal launch in the next several weeks!
+
+
+> UPDATE- This is only offering "free" labs to people that wish to be an early adopter.  The on-demand labs will not be "free" at launch (unless the vendors are sponsoring them). And if you are a vendor, and want to take part and learn more, please reach out.
+
 
 Thanks,
 Jason
