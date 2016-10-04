@@ -1,9 +1,10 @@
+
 ---
+
 layout: post
 tags: automation, ntc
 title: Network to Code and General Update
 ---
-
 
 It's been a long time since my last post, way longer than I'd like. For the last several months [we've](http://networktocode.com/) been neck deep in network automation. This post focuses on the highlights of not only what I've been up to, but also the rest of the Network to Code team.  More detailed posts will come over the coming days and weeks.
 
