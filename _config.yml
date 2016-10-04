@@ -54,7 +54,6 @@ paginate_path: "blog/page:num"
 markdown: kramdown
 kramdown:
   input: GFM
-highlighter: pygments
 sass:
   sass_dir: _sass
   style: :compressed
