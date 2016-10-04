@@ -34,6 +34,8 @@ As always- if you're interested in talking automation or exploring how we can he
 
 
 Thanks,
+
 Jason
+
 @jedelman8
 
