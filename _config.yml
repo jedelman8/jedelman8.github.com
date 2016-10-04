@@ -4,7 +4,7 @@ url: "http://jedelman.com" # the base hostname & protocol for your site
 
 permalink: /home/:title/
 # THEME-SPECIFIC CONFIGURATION
-theme:
+orig_theme:
   # Meta
   title: Jason Edelman's Blog
   #avatar: avatar.png

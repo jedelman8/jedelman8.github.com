@@ -1,18 +1,18 @@
 <header class="site-header">
 
 	<div class="branding">
-		{% if site.theme.gravatar %}
+		{% if site.orig_theme.gravatar %}
 		<a href="{{ site.baseurl }}/">
-			<img class="avatar" src="https://secure.gravatar.com/avatar/{{ site.theme.gravatar }}?s=100" alt=""/>
+			<img class="avatar" src="https://secure.gravatar.com/avatar/{{ site.orig_theme.gravatar }}?s=100" alt=""/>
 		</a>
-		{% elsif site.theme.avatar %}
+		{% elsif site.orig_theme.avatar %}
 		<a href="{{ site.baseurl }}/">
-			<img class="avatar" src="/img/{{ site.theme.avatar }}" alt=""/>
+			<img class="avatar" src="/img/{{ site.orig_theme.avatar }}" alt=""/>
 		</a>
 		{% endif %}
 
 		<h1 class="site-title">
-			<a href="{{ site.baseurl }}/">{{ site.theme.title }}</a>
+			<a href="{{ site.baseurl }}/">{{ site.orig_theme.title }}</a>
 		</h1>
 	</div>
 
