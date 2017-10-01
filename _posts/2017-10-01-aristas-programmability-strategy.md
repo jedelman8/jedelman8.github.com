@@ -41,7 +41,7 @@ When I take a step back and look at Arista's strategy for programmability, this 
 3. Be very explicit with what's supported with regards to OpenConfig.  See above for more context.
 4. If a platform is supporting YANG models, it would be much preferred to support NETCONF and/or RESTCONF for a real API (in the context of configuring the management plane).  These are preferred over gRPC for the majority of users at this point in time.  For example, in Python it's quite easy to get started with Python `requests` and `ncclient`.  How would one would get started with a vendor-neutral gRPC client?  From what I've seen, every vendor has been developing their own gRPC clients thus far.  Does this mean it's not standard gRPC?
 
-What makes eAPI a valid strategy (and more programmable than other OSs) is not the API itself, but EOS supporting two features: config replace (atomic conifg replace) and configuration sessions (batch transactions like a candidate configuration).  Having an open OS and these features are great, but shouldn't minimize the focus on proper [configuration] API development.
+What makes eAPI a valid strategy (and more programmable than other OSs) is not the API itself, but EOS supporting two features: config replace (atomic config replace) and configuration sessions (batch transactions like a candidate configuration).  Having an open OS and these features are great, but shouldn't minimize the focus on proper [configuration] API development.
 
 General thoughts?  Feel free to comment below!
 
