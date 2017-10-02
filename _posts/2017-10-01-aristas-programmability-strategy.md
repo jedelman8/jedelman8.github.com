@@ -32,6 +32,8 @@ Before diving into each of these, I'll first point out that when I look at "OS p
 
 **EosSdk** - it is in fact an avenue for device level programmability, but for the  control plane of the switch (compared to management plane).  I think this is slick and great knowing it's there, but out of reach and not needed for the majority of EOS users.
 
+Update: shortly after this published, I was informed the latest release of EOS has gRPC support for streaming and also configuration of certain models.  Some of these models are also exposed via NETCONF too.
+
 # Summary
 
 When I take a step back and look at Arista's strategy for programmability, this is what I'm left with:
