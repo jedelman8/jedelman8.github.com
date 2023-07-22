@@ -14,10 +14,10 @@ layout: default
 
       <header>
         <h1>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}#disqus_thread">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h1>
 
-        <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+        <p class="meta">{{ post.date | date: "%B %-d, %Y" }}&bull;<a href="{{ post.url | prepend: site.baseurl }}#disqus_thread">Post a Comment</a></p>
       </header>
 
       <div class="excerpt">
