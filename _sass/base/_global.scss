@@ -32,16 +32,16 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 h1 {
-  font-size: 2em;
-}
-h2 {
-  font-size: 1.5em;
-}
-h3 {
   font-size: 1.25em;
 }
-h4 {
+h2 {
+  font-size: 1.15em;
+}
+h3 {
   font-size: 1em;
+}
+h4 {
+  font-size: .75em;
 }
 
 @media (max-width: 48em) {
