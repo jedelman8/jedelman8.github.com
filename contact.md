@@ -6,9 +6,11 @@ permalink: /contact/
 
 Interested in talking? Let me know.
 
+</br>
 
-<form action="https://public.herotofu.com/v1/958d1040-294b-11ee-9907-0b23fd627d84" method="POST">
 <script src="https://unpkg.com/tailwindcss-jit-cdn"></script>
+<form action="https://public.herotofu.com/v1/958d1040-294b-11ee-9907-0b23fd627d84" method="POST">
+
   <div class="mb-3 pt-0">
     <input
       type="text"
