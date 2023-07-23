@@ -15,7 +15,7 @@ orig_theme:
   header_text: >
 
   footer_text: >
-   <form style="border:1px solid #fff;padding:3px;text-align:center;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=JasonEdelmanjedelman8', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Subscribe Now</p><p><input type="text" style="padding: 8px 8px; border: solid #1abc9c; border-radius: 10px; width:190px" placeholder="Email Address" name="email"/></p><input type="hidden" value="JasonEdelmanjedelman8" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" style="padding: 4px 10px; background-color: #1abc9c; border: solid #1abc9c; color: white; border-radius: 10px;"/></form>
+   <form style="border:1px solid #fff;padding:3px;text-align:center;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=JasonEdelmanjedelman8', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Subscribe Now</p><p><input type="text" style="padding: 8px 8px; border: solid #1abc9c; border-radius: 10px; width:245px" placeholder="Email Address" name="email"/></p><input type="hidden" value="JasonEdelmanjedelman8" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" style="padding: 4px 10px; background-color: #1abc9c; border: solid #1abc9c; color: white; border-radius: 10px;"/></form>
 
   #Powered by <a href="http://jekyllrb.com">Jekyll</a> and <a href="https://pages.github.com">Git Hub Pages</a>
 
