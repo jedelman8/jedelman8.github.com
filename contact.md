@@ -1,10 +1,12 @@
 ---
 layout: page
-title: "Contact Us"
+title: Contact
 permalink: /contact/
 ---
 
-<script src="https://unpkg.com/tailwindcss-jit-cdn"></script>
+Interested in talking? Let me know.
+
+<!-- <script src="https://unpkg.com/tailwindcss-jit-cdn"></script> -->
 <form action="https://public.herotofu.com/v1/958d1040-294b-11ee-9907-0b23fd627d84" method="POST">
   <div class="mb-3 pt-0">
     <input
@@ -31,12 +33,6 @@ permalink: /contact/
       class="px-3 py-3 placeholder-gray-400 text-gray-600 relative bg-white bg-white rounded text-sm border-0 shadow outline-none focus:outline-none focus:ring w-full"
       required
     ></textarea>
-  </div>
-  <div>
-    <input type="submit" value="Spam Prevention" />
-    <div style="text-indent:-99999px; white-space:nowrap; overflow:hidden; position:absolute;" aria-hidden="true">
-      <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" />
-    </div>
   </div>
   <div class="mb-3 pt-0">
     <button
